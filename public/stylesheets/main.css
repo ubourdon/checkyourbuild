@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+}
+
+section.build {
+    text-align: center;
+    background-color: yellow;
+    /*background-color: red;
+    background-color: green;*/
+    width: 25%;
+    border: 1px solid #9acd32;
+}
+
+section.build h2 {
+    font-size: 1.9em;
+}
