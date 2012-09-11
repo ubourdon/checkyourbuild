@@ -1,4 +1,11 @@
-This is your new Play 2.0 application
+CHECK YOUR BUILD!
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+Build wall ne nécessitant pas de plug-in pour fonctionner sur jenkins
+
+to install the application
+--------------------------
+
+* download playframework! 2
+* git clone checkyourbuild project
+* play start & it's OK you can & you must check your build ! ;)
