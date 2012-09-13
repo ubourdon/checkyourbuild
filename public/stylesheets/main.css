@@ -2,13 +2,18 @@ header {
     text-align: center;
 }
 
-section.build {
+#build {
     text-align: center;
-    background-color: yellow;
-    /*background-color: red;
-    background-color: green;*/
+    background-color: red;
     width: 25%;
-    border: 1px solid #9acd32;
+}
+
+#build.ok {
+    background-color: green;
+}
+
+#build.wip {
+    background-color: yellow;
 }
 
 section.build h2 {
